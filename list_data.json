@@ -1,51 +1,51 @@
 {
 	"dogs": [{
-			"Name": "satine",
+			"Name": "Satine",
 			"Breed": "shepherd",
 			"Age": "1.5 years",
-			"Owner": "ben",
+			"Owner": "Ben",
 			"Favorite Food": "cheese sticks"
 	},
 	{
-			"Name": "zeus",
+			"Name": "Zeus",
 			"Breed": "pittie",
-			"Age": "4",
-			"Owner": "alicia",
+			"Age": "4 years",
+			"Owner": "Alicia",
 			"Favorite Food": "hot dogs"
 		},
 		{
-			"Name": "beli",
+			"Name": "Beli",
 			"Breed": "pit mix",
-			"Age": "1",
-			"Owner": "liz",
+			"Age": "1 year",
+			"Owner": "Liz",
 			"Favorite Food": "sausage"
 		},
 		{
-			"Name": "louie",
+			"Name": "Louie",
 			"Breed": "farmdog",
 			"Age": "6 months",
-			"Owner": "celia",
+			"Owner": "Celia",
 			"Favorite Food": "peanut butter"
 			},
 			{
-				"Name": "madi",
+				"Name": "Madi",
 				"Breed": "golden retriever",
 				"Age": "9 months",
-				"Owner": "austin",
+				"Owner": "Austin",
 				"Favorite Food": "doggie biscuits"
 			},
 			{
-				"Name": "kiwi",
+				"Name": "Kiwi",
 				"Breed": "half chihuahua half wire-haired terrier",
-				"Age": "8ish",
-				"Owner": "eileen",
+				"Age": "8ish years",
+				"Owner": "Eileen",
 				"Favorite Food": "filet mignon"
 			},
 			{
-				"Name": "bailey",
+				"Name": "Bailey",
 				"Breed": "mini australian shepherd",
-				"Age": "8ish",
-				"Owner": "ian",
+				"Age": "8ish years",
+				"Owner": "Ian",
 				"Favorite Food": "french fries"
 			}
 
