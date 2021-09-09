@@ -1,5 +1,6 @@
 {
 	"dogs": [{
+			"Photo": "img src = 'photos/satine.jpeg'",
 			"Name": "Satine",
 			"Breed": "shepherd",
 			"Age": "1.5 years",
