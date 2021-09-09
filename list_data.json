@@ -1,3 +1,59 @@
+{"dogs": [{
+			"Name": "satine",
+			"Breed": "shepherd",
+			"Age": "1.5 years",
+			"Owner": "ben",
+			"Favorite Food": "cheese sticks",
+	},
+	{
+			"Name": "zeus",
+			"Breed": "pittie",
+			"Age": "4",
+			"Owner": "alicia",
+			"Favorite Food": "hot dogs",
+		},
+		{
+			"Name": "beli",
+			"Breed": "pit mix",
+			"Age": "1",
+			"Owner": "liz",
+			"Favorite Food": "sausage",
+		},
+		{
+			"Name": "louie",
+			"Breed": "farmdog",
+			"Age": "6 months",
+			"Owner": "celia",
+			"Favorite Food": "peanut butter",
+			},
+			{
+				"Name": "madi",
+				"Breed": "golden retriever",
+				"Age": "9 months",
+				"Owner": "austin",
+				"Favorite Food": "doggie biscuits",
+			}
+			{
+				"Name": "kiwi",
+				"Breed": "half chihuahua half wire-haired terrier",
+				"Age": "8ish",
+				"Owner": "eileen",
+				"Favorite Food": "filet mignon",
+			}
+
+]
+
+
+
+}
+
+
+
+
+
+
+/*
+
 {
 	"publications": [{
 		"Title": "Automatically Generating Cause-and_Effect Questions from Passages",
@@ -29,5 +85,5 @@
 		"Venue": "BEA Workshop",
 		"Year": "2017"
 	}]
-	
-}
+
+} */
