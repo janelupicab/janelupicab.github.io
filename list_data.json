@@ -5,7 +5,7 @@
 			"Age": "1.5 years",
 			"Owner": "Ryan",
 			"Favorite Food": "cheese sticks"
-	}, 
+	},
 	{
 			"Name": "Zeus",
 			"Breed": "pittie",
@@ -20,13 +20,6 @@
 			"Owner": "Liz",
 			"Favorite Food": "sausage"
 		},
-		{
-			"Name": "Louie",
-			"Breed": "farmdog",
-			"Age": "6 months",
-			"Owner": "Celia",
-			"Favorite Food": "peanut butter"
-			},
 			{
 				"Name": "Madi",
 				"Breed": "golden retriever",
